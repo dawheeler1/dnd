@@ -1,6 +1,5 @@
 // Daniel Wheeler
 // Dungeon and Dragons Character Generator; Verison 1
-// Added all the races and all the classes.  
 
 #include <iostream>
 #include <cstdlib> 
